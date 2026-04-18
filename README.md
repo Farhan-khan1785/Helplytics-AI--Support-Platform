@@ -150,7 +150,9 @@ Smooth user flow
 Implement ANY TWO:
 
 Trust score system (computed logic)
+
 Notification system (UI-based)
+
 AI suggestion engine
 Badge system (rule-based)
 🧠 Architecture Principles
@@ -161,9 +163,14 @@ Avoid backend complexity
 Prefer computed state instead of stored data
 🚀 Deployment (Optional)
 Vercel → Frontend hosting
+
+
 Clerk → Authentication
+
+
 OpenAI → AI features
 🏁 Final Goal
+
 
 Build a platform that:
 
